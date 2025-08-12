@@ -2,4 +2,6 @@ this is where i will be explaining different choices made though the project.
 
 - for main: 
 1. first explanation is needed for the prepossesing. the dropped collumns have no relevance for the model (things like ID dont correlate with a win or loss.).
-    the win encoding seems self explanatory. for the column named opening_name its hard to encode because its high-cardinary. so i used 
+    the win encoding seems self explanatory. for the column named opening_name its hard to encode because its high-cardinary. so i used a labelencoder to make each
+    opening have a numerical ID. i hope some models will learn that some openers have a win%, and base the prediction on this (somewhat)
+    
