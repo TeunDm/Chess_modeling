@@ -22,7 +22,7 @@ right now this repo contains:
 - other libraries from python (random, chess, nbimporter, etc)
 - Kaggle chess dataset (linked).
 
-## what goals where met with this repo?
+## what goals were met with this repo?
 i learned a bit more on pytorch which was a big goal of mine over the summer (get a head start before i start deeplearning in school). i sharpened some already known skills (analysis, simple sklearn models). 
 I learned github a bit better and learned how to use multiple files (used to do projects in one big file). as well as some other generally usefull IT skills learned. 
 
